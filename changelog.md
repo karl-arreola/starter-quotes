@@ -8,3 +8,4 @@ Conventions
 
 Lydia Added new avatar image with quotes
 Karl Added additional field at welcome and changed tooltip
+Karl Testing GPG signing
